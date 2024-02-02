@@ -1,0 +1,4 @@
+- 👋 Hi, I’m David
+- I’m interested in space, aviation, hostory, computers and that kind of stuff.
+- I’m currently getting my batchelors in programing at university.
+- I will share some of my code here that poeple might find useful.
